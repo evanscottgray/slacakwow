@@ -1,2 +1,2 @@
-# slacakwow
+# slackwow
 slack flask app
